@@ -1,1 +1,8 @@
 # Foundations
+Swift project for Foundations (IF810) discipline.
+
+# Group
+* [Maria Vitória Soares Muniz](https://github.com/mariavmuniz)
+* [Raphael Figueiredo](https://github.com/)
+* [Rebeca Silva](https://github.com/rebsoo)
+* [Rosinaldo Guedes](https://github.com/rosig)
